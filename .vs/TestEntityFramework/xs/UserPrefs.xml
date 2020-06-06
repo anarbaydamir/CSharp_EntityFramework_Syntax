@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{6828A3E1-CC5B-46BD-9DD0-744C747ACECF}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestEntityFramework FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestEntityFramework/EntityFrameworkDAL.cs">
+    <Files>
+      <File FileName="TestEntityFramework/Program.cs" Line="11" Column="6" />
+      <File FileName="TestEntityFramework/EntityClass.cs" Line="10" Column="21" />
+      <File FileName="TestEntityFramework/TestDbContext.cs" Line="9" Column="34" />
+      <File FileName="TestEntityFramework/EntityFrameworkDAL.cs" Line="38" Column="20" />
+      <File FileName="TestEntityFramework/EntityFrameworkInter.cs" Line="12" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestEntityFramework" expanded="True">
+            <Node name="TestEntityFramework" expanded="True">
+              <Node name="EntityFrameworkDAL.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
